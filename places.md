@@ -10,6 +10,7 @@ This file is about favourite travel places
 
 4. Bali, Indonesia
 
+5. Singapore, Singapore
 
 6. Zermatt, Switzerland
 
