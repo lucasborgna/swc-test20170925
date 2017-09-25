@@ -11,3 +11,5 @@ This is a list of Favourite airlines
 4. Cathay Pacific
 
 5. British Airways
+
+6. SwissAir
